@@ -1,0 +1,6 @@
+.top{
+    display: flex;
+}
+.mid h1{
+    justify-content: center;
+}
